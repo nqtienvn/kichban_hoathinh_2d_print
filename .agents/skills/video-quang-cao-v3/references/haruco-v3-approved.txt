@@ -1,0 +1,20 @@
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1s cận tay gõ bàn phím trắng. 1–2,5s zoom ra thấy nhân vật ngồi làm việc rồi đứng dậy. 2,5–4,3s theo bàn tay đặt lên thắt lưng và zoom vào vùng đó; một vòng khoanh trắng hiện ra. Cuối cảnh nhân vật vẫn cử động nhẹ. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,2s cận đai Haruco đen đỏ. 1,2–2,8s zoom ra thấy nhân vật mở tay giới thiệu cạnh bục trắng. 2,8–4,3s nhân vật thu nhỏ sang trái, hình đai phóng lớn bên phải, giữ nguyên tỷ lệ và chi tiết; cánh tay tiếp tục hướng về sản phẩm. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,2s trung cảnh nhân vật chỉ vùng thắt lưng. 1,2–2,8s zoom theo bàn tay, đường khoanh trắng bao quanh vùng được chỉ. 2,8–4,3s vùng này xuất hiện trong ô tròn phóng đại bên phải; nhân vật thu nhỏ sang trái và tiếp tục chỉ. Giữ hình cơ thể tự nhiên. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,3s thấy toàn bộ đai Haruco. 1,3–3,3s zoom vào khe khung, ô tròn trắng phóng đại chi tiết xuất hiện. 3,3–5,5s khung nhìn trượt ngang theo ngón tay sang dải đai đỏ; ô tròn chuyển sang phóng đại dải đai. Tay chuyển động, sản phẩm không biến dạng. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,5s hình đai Haruco thu nhỏ vào góc trái. 1,5–3,2s cảnh nhân vật ngồi tại bàn trắng trượt vào từ phải. 3,2–5,5s zoom ra thấy tư thế từ đầu tới chân; nhân vật đặt chân xuống sàn, dịch hông và ngồi cân đối hơn. Cử động thân người rõ ràng. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,3s trung cảnh nhân vật cầm thước dây trắng. 1,3–3,2s hai tay mở thước ngang eo. 3,2–5,2s zoom vào tay giữ thước; một ô tròn phóng đại đoạn thước hiện ra bên cạnh. Thước chuyển động mềm theo tay, không xuất hiện số đo. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,5s cận cuốn hướng dẫn trắng đang mở. 1,5–3,5s zoom theo ngón trỏ lần qua các dòng kẻ. 3,5–5,5s zoom ra thấy nhân vật cầm sách, gật nhẹ; dấu kiểm trắng nhỏ xuất hiện cạnh sách. Giữ trang giấy và bàn tay ổn định. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,5s trung cảnh nhân vật rời ghế trắng và đứng dậy. 1,5–3s zoom ra toàn thân. 3–5,2s khung nhìn di chuyển ngang theo ba bước đi; tay đánh nhẹ theo nhịp chân. Luôn thấy rõ đầu và chân, chuyển động cơ thể liên tục. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–1,2s cận điện thoại trắng. 1,2–3,5s zoom ra thấy nhân vật chạm màn hình. 3,5–5,5s ba biểu tượng trắng lần lượt bật ra cạnh điện thoại: máy ảnh, thước đo, thẻ giá trống. Nhân vật đưa bàn tay còn lại giới thiệu ba biểu tượng. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+
+Đồ họa giải thích 2D, 6s, 16:9; giữ nhân vật tham chiếu, mắt trắng mở, mũi nét đen, không miệng. 0–2s từ cận đai Haruco zoom ra thấy nhân vật bên cạnh. 2–4s nhân vật thu nhỏ sang trái, hình sản phẩm phóng lớn bên phải theo đúng tỷ lệ. 4–5,8s chuyển động chậm lại; nhân vật mở tay hướng về đai và gật nhẹ, sản phẩm giữ nguyên chi tiết. Tay và vai luôn cử động; không đổi mặt hoặc hình đai, không chữ, không tiếng.
+

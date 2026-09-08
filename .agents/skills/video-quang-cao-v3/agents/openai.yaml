@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video quảng cáo V3"
+  short_description: "Kịch bản cuốn hút, prompt chuyển động theo thời lượng"
+  default_prompt: "Dùng $video-quang-cao-v3 tạo kịch bản kể chuyện cuốn hút và bộ prompt chuyển động từ ảnh sản phẩm, công dụng và thời lượng tôi chọn."
