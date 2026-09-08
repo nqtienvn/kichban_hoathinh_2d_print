@@ -27,7 +27,7 @@ Công dụng/đặc điểm đúng mẫu: [danh sách]
 Thời lượng video: 60 giây
 ```
 
-Trong Gemini CLI, kiểm tra skill bằng `/skills list`, dùng `/skills reload` nếu vừa kéo code mới, rồi yêu cầu bằng ngôn ngữ tự nhiên; agent sẽ kích hoạt skill khi mô tả khớp. Có thể cài ở phạm vi người dùng bằng lệnh `gemini skills install <URL-hoặc-đường-dẫn>`.
+Trong Gemini CLI, kiểm tra skill bằng `/skills list`, dùng `/skills reload` nếu vừa kéo code mới, rồi yêu cầu bằng ngôn ngữ tự nhiên; agent sẽ kích hoạt skill khi mô tả khớp. Có thể cài ở phạm vi người dùng bằng lệnh `gemini skills install <đường-dẫn-tới-.agents/skills/video-quang-cao-v3>` sau khi clone repo.
 
 Trong Claude Code, chép thư mục skill vào `~/.claude/skills/video-quang-cao-v3/`, sau đó gọi `/video-quang-cao-v3` hoặc yêu cầu tạo quảng cáo theo phong cách V3. Claude Code cũng tự phát hiện skill dự án nếu thư mục được đặt tại `.claude/skills/video-quang-cao-v3/`.
 
@@ -64,7 +64,7 @@ Nếu chỉ dùng một agent, chỉ cần chép vào thư mục tương ứng. 
 ### Gemini CLI
 
 - Cấp repo: giữ skill trong `.agents/skills/video-quang-cao-v3/`.
-- Cấp người dùng: dùng `gemini skills install https://github.com/nqtienvn/kichban_hoathinh_2d_print` hoặc chép thư mục vào `%USERPROFILE%\.gemini\skills\video-quang-cao-v3\`.
+- Cấp người dùng: sau khi clone, dùng `gemini skills install "$repo\.agents\skills\video-quang-cao-v3"` hoặc chép thư mục vào `%USERPROFILE%\.gemini\skills\video-quang-cao-v3\`.
 - Kiểm tra `/skills list`; sau khi cập nhật dùng `/skills reload`. Nếu agent yêu cầu quyền kích hoạt skill, chấp thuận sau khi đã xem nội dung repo.
 
 ### Claude Code
